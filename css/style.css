@@ -1751,3 +1751,17 @@ header {
             transform:scale(0);
   }
 }
+
+.main-nav h4 {
+    color: #fff;
+    margin-bottom: 0px;
+}
+
+.fixed-nav h4 {
+    color: #000;
+}
+
+.footer-logo a {
+    font-size: 1.3em;
+    color: #fff;
+}
